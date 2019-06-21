@@ -1,4 +1,4 @@
 // JavaScriptコードをここに書く
 
-// window.alert("Hello!");
-// console.log("Good morning.");
+window.alert("Hello!");
+console.log("Good morning.");
